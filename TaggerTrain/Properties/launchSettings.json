@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TaggerTrain": {
+      "commandName": "Project",
+      "commandLineArgs": "PA5-wsj-pos\\pos-train.txt tagger-train-probs.txt",
+      "workingDirectory": "S:\\Documents\\School\\UMD\\Fall 2021\\CS 4242\\Labs and PAs\\POS Tagging"
+    }
+  }
+}

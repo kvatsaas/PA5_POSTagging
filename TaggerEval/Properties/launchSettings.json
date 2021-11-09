@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TaggerEval": {
+      "commandName": "Project",
+      "commandLineArgs": "pos-test-1.txt PA5-wsj-pos\\pos-key.txt pos-test-1-eval.txt",
+      "workingDirectory": "S:\\Documents\\School\\UMD\\Fall 2021\\CS 4242\\Labs and PAs\\POS Tagging"
+    }
+  }
+}
